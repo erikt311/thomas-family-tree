@@ -3,3 +3,5 @@ erik_thomas_family_tree.html
 CLAUDE.md
 encrypt_tree.ps1
 immich_staging/
+.env
+immich_sync.py
